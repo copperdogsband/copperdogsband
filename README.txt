@@ -1,0 +1,1 @@
+Copy your existing logo.png, hero.jpg, standuptall.jpg and gallery1-4.jpg into the images folder.
