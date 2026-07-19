@@ -42,7 +42,10 @@ color:#c11b1b;
 
 .hero{
 height:100vh;
-background:url("Hero.jpg") center center/cover no-repeat;
+background:url("Hero.jpg") top center;
+background-size:contain;
+background-repeat:no-repeat;
+background-color:#000;
 display:flex;
 justify-content:center;
 align-items:center;
